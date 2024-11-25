@@ -9,7 +9,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $username = $_POST['username'];
     $password = $_POST['password'];
 
-    //Check if the username is in the array
+    //Check if the username exists in active directory
     if (user_authorization($username, $password)) {
         $count = user_exists($db, $username);
         //Start the session
