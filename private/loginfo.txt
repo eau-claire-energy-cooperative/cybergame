@@ -1,0 +1,348 @@
+2024-12-16 08:29:21 jporter has successfully logged in
+2024-12-16 08:35:34 jporter has solved pattern number 1
+2024-12-16 08:35:34 jporter has solved 17% of patterns
+2024-12-16 08:50:18 jporter has solved pattern number 6
+2024-12-16 08:50:18 jporter has solved 33% of patterns
+2024-12-16 08:51:59 nkarnes has a failed login attempt
+2024-12-16 08:52:09 nkarnes has successfully logged in
+2024-12-16 08:52:25 rweber has successfully logged in
+2024-12-16 08:54:51 2 has registered for Galactic Codebreaker
+2024-12-16 08:54:51 rweber (Mischievous Squirrel) has registered for Galactic Codebreaker
+2024-12-16 08:55:48 3 has registered for Galactic Codebreaker
+2024-12-16 08:55:48 nkarnes (Mischievous Pickle) has registered for Galactic Codebreaker
+2024-12-16 09:00:52 nkarnes has solved pattern number 1
+2024-12-16 09:00:52 nkarnes has solved 13% of patterns
+2024-12-16 09:01:45 nkarnes has solved pattern number 2
+2024-12-16 09:01:45 nkarnes has solved 25% of patterns
+2024-12-16 09:02:37 nkarnes has solved pattern number 3
+2024-12-16 09:02:37 nkarnes has solved 38% of patterns
+2024-12-16 09:02:39 jzinter has successfully logged in
+2024-12-16 09:03:03 4 has registered for Galactic Codebreaker
+2024-12-16 09:03:03 jzinter (Smooth Pickle) has registered for Galactic Codebreaker
+2024-12-16 09:16:04 awestaby has successfully logged in
+2024-12-16 09:19:21 5 has registered for Galactic Codebreaker
+2024-12-16 09:19:21 awestaby (Mighty Cactus) has registered for Galactic Codebreaker
+2024-12-16 10:33:53 jporter has a failed login attempt
+2024-12-16 11:07:00 jporter has successfully logged in
+2024-12-16 11:30:19 awestaby has successfully logged in
+2024-12-16 13:05:45 lalberson has successfully logged in
+2024-12-16 13:08:36 6 has registered for Galactic Codebreaker
+2024-12-16 13:08:36 lalberson (Flexible Squirrel) has registered for Galactic Codebreaker
+2024-12-16 14:01:42 tskibba has successfully logged in
+2024-12-16 14:02:12 7 has registered for Galactic Codebreaker
+2024-12-16 14:02:12 tskibba (Slippery Marshmallow) has registered for Galactic Codebreaker
+2024-12-16 14:07:39 tskibba has solved pattern number 19
+2024-12-16 14:07:39 tskibba has solved 8% of patterns
+2024-12-16 14:09:51 tskibba has solved pattern number 20
+2024-12-16 14:09:51 tskibba has solved 17% of patterns
+2024-12-17 08:49:58 pcorkill has a failed login attempt
+2024-12-17 08:50:17 pcorkill has successfully logged in
+2024-12-17 08:52:34 8 has registered for Galactic Codebreaker
+2024-12-17 08:52:34 pcorkill (Energetic Marshmallow) has registered for Galactic Codebreaker
+2024-12-17 14:14:18 bblade has a failed login attempt
+2024-12-17 14:16:23 bblade has a failed login attempt
+2024-12-17 14:21:12 bblade has successfully logged in
+2024-12-17 14:23:10 9 has registered for Galactic Codebreaker
+2024-12-17 14:23:10 bblade (Wild Giraffe) has registered for Galactic Codebreaker
+2024-12-17 14:42:50 rweber has successfully logged in
+2024-12-17 14:45:11 rweber has solved pattern number 1
+2024-12-17 14:45:11 rweber has solved 7% of patterns
+2024-12-17 14:45:43 mobrycki has successfully logged in
+2024-12-17 14:45:44 tskibba has successfully logged in
+2024-12-17 14:46:24 10 has registered for Galactic Codebreaker
+2024-12-17 14:46:25 mobrycki (Refined Panda) has registered for Galactic Codebreaker
+2024-12-17 14:47:26 rweber has solved pattern number 7
+2024-12-17 14:47:26 rweber has solved 13% of patterns
+2024-12-17 14:48:50 tskibba has solved pattern number 54
+2024-12-17 14:48:50 tskibba has solved 20% of patterns
+2024-12-17 14:49:50 rweber has solved pattern number 100
+2024-12-17 14:49:50 rweber has solved 20% of patterns
+2024-12-17 14:50:51 rweber has solved pattern number 2
+2024-12-17 14:50:51 rweber has solved 27% of patterns
+2024-12-17 14:52:15 rweber has solved pattern number 20
+2024-12-17 14:52:15 rweber has solved 33% of patterns
+2024-12-17 14:55:02 tskibba has solved pattern number 68
+2024-12-17 14:55:02 tskibba has solved 27% of patterns
+2024-12-17 14:58:01 mobrycki has solved pattern number 19
+2024-12-17 14:58:01 mobrycki has solved 7% of patterns
+2024-12-17 15:29:29 awestaby has successfully logged in
+2024-12-17 15:31:31 awestaby has solved pattern number 7
+2024-12-17 15:31:31 awestaby has solved 7% of patterns
+2024-12-17 15:37:48 awestaby has solved pattern number 54
+2024-12-17 15:37:48 awestaby has solved 13% of patterns
+2024-12-17 15:42:07 awestaby has solved pattern number 20
+2024-12-17 15:42:07 awestaby has solved 20% of patterns
+2024-12-17 15:45:06 awestaby has solved pattern number 19
+2024-12-17 15:45:06 awestaby has solved 27% of patterns
+2024-12-17 15:48:00 awestaby has solved pattern number 68
+2024-12-17 15:48:00 awestaby has solved 33% of patterns
+2024-12-17 15:52:56 awestaby has solved pattern number 69
+2024-12-17 15:52:56 awestaby has solved 40% of patterns
+2024-12-17 15:54:38 awestaby has solved pattern number 81
+2024-12-17 15:54:38 awestaby has solved 47% of patterns
+2024-12-17 15:56:42 awestaby has solved pattern number 87
+2024-12-17 15:56:42 awestaby has solved 53% of patterns
+2024-12-17 15:58:19 awestaby has solved pattern number 100
+2024-12-17 15:58:19 awestaby has solved 60% of patterns
+2024-12-18 10:05:33 jporter has successfully logged in
+2024-12-18 14:48:31 mobrycki has successfully logged in
+2024-12-18 14:53:11 mobrycki has solved pattern number 87
+2024-12-18 14:53:11 mobrycki has solved 13% of patterns
+2024-12-18 14:57:48 mobrycki has solved pattern number 69
+2024-12-18 14:57:48 mobrycki has solved 20% of patterns
+2024-12-18 15:21:19 jporter has successfully logged in
+2024-12-18 15:22:19 jporter has solved pattern number 55
+2024-12-18 15:22:19 jporter has solved 20% of patterns
+2024-12-18 15:24:24 jporter has solved pattern number 54
+2024-12-18 15:24:24 jporter has solved 27% of patterns
+2024-12-18 15:26:03 jporter has solved pattern number 87
+2024-12-18 15:26:03 jporter has solved 33% of patterns
+2024-12-19 06:31:57 awestaby has successfully logged in
+2024-12-19 07:48:09 jporter has successfully logged in
+2024-12-19 07:48:51 jporter has solved pattern number 81
+2024-12-19 07:48:51 jporter has solved 40% of patterns
+2024-12-19 07:54:38 awestaby has successfully logged in
+2024-12-19 07:55:12 awestaby has solved pattern number 1
+2024-12-19 07:55:12 awestaby has solved 67% of patterns
+2024-12-19 07:56:37 awestaby has solved pattern number 2
+2024-12-19 07:56:37 awestaby has solved 73% of patterns
+2024-12-19 07:58:20 awestaby has solved pattern number 3
+2024-12-19 07:58:20 awestaby has solved 80% of patterns
+2024-12-19 08:00:34 awestaby has solved pattern number 4
+2024-12-19 08:00:34 awestaby has solved 87% of patterns
+2024-12-19 08:03:31 awestaby has solved pattern number 5
+2024-12-19 08:03:31 awestaby has solved 93% of patterns
+2024-12-19 08:06:59 awestaby has solved pattern number 6
+2024-12-19 08:06:59 awestaby has solved 100% of patterns
+2024-12-19 10:10:44 awestaby has successfully logged in
+2024-12-19 11:25:13 awestaby has successfully logged in
+2024-12-19 16:37:35 nkarnes has successfully logged in
+2024-12-19 16:41:39 nkarnes has solved pattern number 19
+2024-12-19 16:41:39 nkarnes has solved 27% of patterns
+2024-12-19 16:44:48 nkarnes has solved pattern number 100
+2024-12-19 16:44:48 nkarnes has solved 33% of patterns
+2024-12-20 11:51:31 rweber has successfully logged in
+2024-12-20 11:53:38 rweber has solved pattern number 54
+2024-12-20 11:53:38 rweber has solved 40% of patterns
+2024-12-23 06:53:44 nkarnes has successfully logged in
+2024-12-23 06:54:41 nkarnes has solved pattern number 5
+2024-12-23 06:54:41 nkarnes has solved 40% of patterns
+2024-12-23 06:56:25 nkarnes has solved pattern number 55
+2024-12-23 06:56:25 nkarnes has solved 47% of patterns
+2024-12-23 06:59:06 nkarnes has solved pattern number 69
+2024-12-23 06:59:06 nkarnes has solved 53% of patterns
+2024-12-23 07:01:54 nkarnes has solved pattern number 87
+2024-12-23 07:01:54 nkarnes has solved 60% of patterns
+2024-12-23 07:03:02 nkarnes has solved pattern number 81
+2024-12-23 07:03:02 nkarnes has solved 67% of patterns
+2024-12-23 07:05:39 nkarnes has solved pattern number 68
+2024-12-23 07:05:39 nkarnes has solved 73% of patterns
+2024-12-23 07:07:11 nkarnes has solved pattern number 54
+2024-12-23 07:07:11 nkarnes has solved 80% of patterns
+2024-12-23 07:09:12 nkarnes has solved pattern number 7
+2024-12-23 07:09:12 nkarnes has solved 87% of patterns
+2024-12-23 07:11:33 nkarnes has solved pattern number 6
+2024-12-23 07:11:33 nkarnes has solved 93% of patterns
+2024-12-23 07:12:24 nkarnes has solved pattern number 4
+2024-12-23 07:12:24 nkarnes has solved 100% of patterns
+2024-12-23 12:27:32 tskibba has successfully logged in
+2024-12-23 12:29:12 tskibba has solved pattern number 7
+2024-12-23 12:29:12 tskibba has solved 33% of patterns
+2024-12-23 12:31:11 tskibba has solved pattern number 55
+2024-12-23 12:31:11 tskibba has solved 40% of patterns
+2024-12-23 12:34:10 tskibba has solved pattern number 100
+2024-12-23 12:34:10 tskibba has solved 47% of patterns
+2024-12-23 12:35:57 tskibba has solved pattern number 87
+2024-12-23 12:35:57 tskibba has solved 53% of patterns
+2024-12-23 12:39:50 tskibba has solved pattern number 81
+2024-12-23 12:39:50 tskibba has solved 60% of patterns
+2024-12-23 12:41:17 mobrycki has successfully logged in
+2024-12-23 12:42:42 tskibba has solved pattern number 1
+2024-12-23 12:42:42 tskibba has solved 67% of patterns
+2024-12-23 12:44:26 tskibba has solved pattern number 3
+2024-12-23 12:44:26 tskibba has solved 73% of patterns
+2024-12-23 12:44:28 mobrycki has solved pattern number 81
+2024-12-23 12:44:28 mobrycki has solved 27% of patterns
+2024-12-23 12:45:14 tskibba has solved pattern number 2
+2024-12-23 12:45:14 tskibba has solved 80% of patterns
+2024-12-23 12:47:07 tskibba has solved pattern number 4
+2024-12-23 12:47:07 tskibba has solved 87% of patterns
+2024-12-23 12:47:29 mobrycki has solved pattern number 68
+2024-12-23 12:47:29 mobrycki has solved 33% of patterns
+2024-12-23 12:49:10 tskibba has solved pattern number 5
+2024-12-23 12:49:10 tskibba has solved 93% of patterns
+2024-12-23 12:53:10 tskibba has solved pattern number 6
+2024-12-23 12:53:10 tskibba has solved 100% of patterns
+2024-12-23 13:12:08 mobrycki has successfully logged in
+2024-12-23 13:14:11 mobrycki has solved pattern number 55
+2024-12-23 13:14:11 mobrycki has solved 40% of patterns
+2024-12-23 13:16:46 mobrycki has solved pattern number 54
+2024-12-23 13:16:46 mobrycki has solved 47% of patterns
+2024-12-23 15:24:48 mobrycki has successfully logged in
+2024-12-23 15:27:37 mobrycki has solved pattern number 20
+2024-12-23 15:27:37 mobrycki has solved 53% of patterns
+2024-12-23 15:30:43 mobrycki has solved pattern number 7
+2024-12-23 15:30:43 mobrycki has solved 60% of patterns
+2024-12-23 15:32:20 mobrycki has solved pattern number 1
+2024-12-23 15:32:20 mobrycki has solved 67% of patterns
+2024-12-23 15:33:32 mobrycki has solved pattern number 2
+2024-12-23 15:33:32 mobrycki has solved 73% of patterns
+2024-12-23 15:38:17 mobrycki has solved pattern number 6
+2024-12-23 15:38:17 mobrycki has solved 80% of patterns
+2024-12-26 09:00:31 awestaby has successfully logged in
+2024-12-26 10:49:48 tskibba has successfully logged in
+2024-12-26 14:02:20 mobrycki has successfully logged in
+2024-12-26 14:03:32 mobrycki has solved pattern number 5
+2024-12-26 14:03:32 mobrycki has solved 87% of patterns
+2024-12-26 14:04:50 mobrycki has solved pattern number 4
+2024-12-26 14:04:50 mobrycki has solved 93% of patterns
+2024-12-30 10:49:42 jporter has successfully logged in
+2024-12-30 10:53:56 jporter has solved pattern number 19
+2024-12-30 10:53:56 jporter has solved 47% of patterns
+2024-12-30 11:03:38 awestaby has successfully logged in
+2024-12-30 13:22:04 tskibba has successfully logged in
+2025-01-02 08:31:18 rweber has successfully logged in
+2025-01-02 10:35:08 emuller has successfully logged in
+2025-01-02 10:36:35 11 has registered for Galactic Codebreaker
+2025-01-02 10:36:35 emuller (Stealthy Cactus) has registered for Galactic Codebreaker
+2025-01-02 11:14:50 tskibba has successfully logged in
+2025-01-02 11:17:27 tskibba has solved pattern number 478
+2025-01-02 11:17:27 tskibba has solved 100% of patterns
+2025-01-02 12:45:57 awestaby has successfully logged in
+2025-01-02 12:48:05 awestaby has solved pattern number 478
+2025-01-02 12:48:05 awestaby has solved 100% of patterns
+2025-01-02 13:18:15 jporter has successfully logged in
+2025-01-02 13:19:35 jporter has solved pattern number 478
+2025-01-02 13:19:35 jporter has solved 50% of patterns
+2025-01-02 13:34:39 rweber has successfully logged in
+2025-01-02 16:18:46 NotTellin has a failed login attempt
+2025-01-02 16:18:52 ckrantz has successfully logged in
+2025-01-02 16:19:35 12 has registered for Galactic Codebreaker
+2025-01-02 16:19:35 ckrantz (Mighty Ninja) has registered for Galactic Codebreaker
+2025-01-03 08:01:37 tskibba has successfully logged in
+2025-01-03 08:02:05 tskibba has solved pattern number 497
+2025-01-03 08:02:05 tskibba has solved 100% of patterns
+2025-01-03 08:20:33 rweber has successfully logged in
+2025-01-06 07:54:32 mobrycki has successfully logged in
+2025-01-06 07:56:20 mobrycki has solved pattern number 478
+2025-01-06 07:56:20 mobrycki has solved 88% of patterns
+2025-01-07 06:35:17 awestaby has successfully logged in
+2025-01-07 06:37:14 awestaby has solved pattern number 497
+2025-01-07 06:37:14 awestaby has solved 100% of patterns
+2025-01-07 07:16:43 tskibba has successfully logged in
+2025-01-07 13:50:26 awestaby@ecec.com has a failed login attempt
+2025-01-07 13:50:34 awestaby has successfully logged in
+2025-01-07 15:01:23 jporter has successfully logged in
+2025-01-08 06:34:59 nkarnes has successfully logged in
+2025-01-08 06:35:59 nkarnes has solved pattern number 497
+2025-01-08 06:35:59 nkarnes has solved 94% of patterns
+2025-01-08 06:37:17 nkarnes has solved pattern number 478
+2025-01-08 06:37:17 nkarnes has solved 100% of patterns
+2025-01-08 13:32:51 jporter has successfully logged in
+2025-01-09 06:44:41 awestaby@ecec.com has a failed login attempt
+2025-01-09 06:44:48 awestaby has successfully logged in
+2025-01-09 08:50:47 tskibba has successfully logged in
+2025-01-09 11:39:09 jporter has successfully logged in
+2025-01-09 15:19:20 tskibba has successfully logged in
+2025-01-09 15:48:30 tskibba has successfully logged in
+2025-01-09 15:50:03 tskibba has solved pattern number 525
+2025-01-09 15:50:03 tskibba has solved 86% of patterns
+2025-01-09 15:50:54 tskibba has solved pattern number 527
+2025-01-09 15:50:54 tskibba has solved 90% of patterns
+2025-01-09 15:54:39 kpoehls has successfully logged in
+2025-01-09 15:55:14 13 has registered for Galactic Codebreaker
+2025-01-09 15:55:14 kpoehls (Fast Ghost) has registered for Galactic Codebreaker
+2025-01-09 16:48:45 tskibba has successfully logged in
+2025-01-09 16:49:28 tskibba has solved pattern number 528
+2025-01-09 16:49:28 tskibba has solved 91% of patterns
+2025-01-09 16:51:44 tskibba has solved pattern number 543
+2025-01-09 16:51:44 tskibba has solved 95% of patterns
+2025-01-09 16:55:19 tskibba has solved pattern number 526
+2025-01-09 16:55:19 tskibba has solved 100% of patterns
+2025-01-13 12:40:54 awestaby has successfully logged in
+2025-01-13 12:44:37 awestaby has solved pattern number 525
+2025-01-13 12:44:37 awestaby has solved 82% of patterns
+2025-01-13 12:48:04 awestaby has solved pattern number 526
+2025-01-13 12:48:04 awestaby has solved 86% of patterns
+2025-01-13 12:52:18 awestaby has solved pattern number 543
+2025-01-13 12:52:18 awestaby has solved 91% of patterns
+2025-01-13 12:56:03 awestaby has solved pattern number 527
+2025-01-13 12:56:03 awestaby has solved 95% of patterns
+2025-01-13 12:59:26 awestaby has solved pattern number 528
+2025-01-13 12:59:26 awestaby has solved 100% of patterns
+2025-01-13 13:41:06 awestaby has successfully logged in
+2025-01-13 13:53:00 jporter has successfully logged in
+2025-01-13 14:58:12 awestaby has successfully logged in
+2025-01-14 12:50:09 tskibba has successfully logged in
+2025-01-14 13:27:07 awestaby has successfully logged in
+2025-01-16 06:37:48 awestaby has successfully logged in
+2025-01-20 06:52:19 nkarnes has successfully logged in
+2025-01-20 06:53:18 nkarnes has solved pattern number 607
+2025-01-20 06:53:18 nkarnes has solved 72% of patterns
+2025-01-20 06:54:40 nkarnes has solved pattern number 526
+2025-01-20 06:54:40 nkarnes has solved 76% of patterns
+2025-01-20 06:56:21 nkarnes has solved pattern number 608
+2025-01-20 06:56:21 nkarnes has solved 80% of patterns
+2025-01-20 06:58:39 nkarnes has solved pattern number 606
+2025-01-20 06:58:39 nkarnes has solved 84% of patterns
+2025-01-20 07:00:24 nkarnes has solved pattern number 543
+2025-01-20 07:00:24 nkarnes has solved 88% of patterns
+2025-01-20 07:01:22 nkarnes has solved pattern number 527
+2025-01-20 07:01:22 nkarnes has solved 92% of patterns
+2025-01-20 07:03:37 nkarnes has solved pattern number 528
+2025-01-20 07:03:37 nkarnes has solved 96% of patterns
+2025-01-20 07:06:03 nkarnes has solved pattern number 525
+2025-01-20 07:06:03 nkarnes has solved 100% of patterns
+2025-01-20 08:59:34 awestaby has successfully logged in
+2025-01-20 10:14:31 awestaby has successfully logged in
+2025-01-20 10:17:53 awestaby has solved pattern number 606
+2025-01-20 10:17:53 awestaby has solved 92% of patterns
+2025-01-20 10:19:19 awestaby has solved pattern number 607
+2025-01-20 10:19:19 awestaby has solved 96% of patterns
+2025-01-20 10:23:58 awestaby has solved pattern number 608
+2025-01-20 10:23:58 awestaby has solved 100% of patterns
+2025-01-21 10:10:18 awestaby has successfully logged in
+2025-01-22 06:39:28 tskibba has successfully logged in
+2025-01-22 06:41:32 tskibba has solved pattern number 606
+2025-01-22 06:41:32 tskibba has solved 92% of patterns
+2025-01-22 06:44:03 tskibba has solved pattern number 608
+2025-01-22 06:44:03 tskibba has solved 96% of patterns
+2025-01-22 06:45:07 tskibba has solved pattern number 607
+2025-01-22 06:45:07 tskibba has solved 100% of patterns
+2025-01-23 06:55:37 tskibba has successfully logged in
+2025-01-23 11:50:05 awestaby has a failed login attempt
+2025-01-23 11:50:11 awestaby has successfully logged in
+2025-01-23 12:52:39 awestaby has successfully logged in
+2025-01-23 14:52:20 mobrycki has successfully logged in
+2025-01-23 14:54:13 mobrycki has solved pattern number 525
+2025-01-23 14:54:13 mobrycki has solved 64% of patterns
+2025-01-24 08:35:39 awestaby has successfully logged in
+2025-01-24 08:45:29 awestaby has solved pattern number 695
+2025-01-24 08:45:29 awestaby has solved 90% of patterns
+2025-01-24 08:49:23 awestaby has solved pattern number 696
+2025-01-24 08:49:23 awestaby has solved 93% of patterns
+2025-01-24 08:52:48 awestaby has solved pattern number 697
+2025-01-24 08:52:48 awestaby has solved 97% of patterns
+2025-01-24 09:08:14 awestaby has solved pattern number 698
+2025-01-24 09:08:14 awestaby has solved 100% of patterns
+2025-01-27 07:11:33 nkarnes has successfully logged in
+2025-01-27 07:12:25 nkarnes has solved pattern number 698
+2025-01-27 07:12:25 nkarnes has solved 90% of patterns
+2025-01-27 07:17:29 nkarnes has solved pattern number 697
+2025-01-27 07:17:29 nkarnes has solved 93% of patterns
+2025-01-27 07:19:10 nkarnes has solved pattern number 696
+2025-01-27 07:19:10 nkarnes has solved 97% of patterns
+2025-01-27 07:22:20 nkarnes has solved pattern number 695
+2025-01-27 07:22:20 nkarnes has solved 100% of patterns
+2025-01-27 07:47:17 jporter has successfully logged in
+2025-01-27 08:08:51 awestaby@ecec.com has a failed login attempt
+2025-01-27 08:08:57 awestaby has successfully logged in
+2025-01-27 09:20:52 tskibba has successfully logged in
+2025-01-27 09:23:19 tskibba has solved pattern number 695
+2025-01-27 09:23:19 tskibba has solved 90% of patterns
+2025-01-27 09:24:44 tskibba has solved pattern number 696
+2025-01-27 09:24:44 tskibba has solved 93% of patterns
+2025-01-27 09:27:13 tskibba has solved pattern number 697
+2025-01-27 09:27:13 tskibba has solved 97% of patterns
+2025-01-27 09:27:55 tskibba has solved pattern number 698
+2025-01-27 09:27:55 tskibba has solved 100% of patterns

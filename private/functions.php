@@ -9,6 +9,32 @@ function url_for($script_path) {
   return WWW_ROOT . $script_path;
 }
 
+//Write login infomration to the log file
+function writeToLog($user, $message) {
+    // Define the log file path
+    $logFile = PRIVATE_PATH . '/loginfo.txt';
+
+    // Open the log file for appending ('a' mode). If the file doesn't exist, it will be created.
+    $fileHandle = fopen($logFile, 'a');
+
+    // Check if the file was opened successfully
+    if ($fileHandle === false) {
+        // If the file couldn't be opened, display an error message
+        $_SESSION['error'] = "This didn't work";
+        //echo "Error: Unable to open log file.";
+        return;
+    }
+
+    // Prepare the log message: "date: $username has logged in"
+    $logMessage = date('Y-m-d H:i:s') . " $user " . $message . PHP_EOL;
+
+    // Write the message to the log file
+    fwrite($fileHandle, $logMessage);
+
+    // Close the file after writing
+    fclose($fileHandle);
+}
+
 // Get the passcode difficulty
 function passcode_difficulty($data){
   $difficulty;

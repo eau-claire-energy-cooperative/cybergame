@@ -262,6 +262,22 @@ function get_user_alias($connection){
   }
 }
 
+// Get the alias of the user that is signed in
+function get_user_name($connection){
+  // Connect the pattern id to a user
+  $userNameSQL = "SELECT uname FROM users WHERE user_id=". $_SESSION['user_id'];
+  $user_set = mysqli_query($connection, $userNameSQL);
+
+  $user = mysqli_fetch_assoc($user_set);
+  $userName = $user['uname'];
+
+  if ($userName === null){
+    return "Game Generated " . $patternID;
+  }else{
+    return $userName;
+  }
+}
+
 //Get the signed in user's score
 function get_user_score($connection){
   //Get the user score
@@ -449,7 +465,8 @@ function generate_guesses_per_pattern($connection){
   $correctGuesses = mysqli_num_rows($correct_guesses_set);
 
   //Generate the guesses per passcode value
-  $guessesPerPattern = number_format(($totalGuesses/$correctGuesses), 2);
+  $patternGuessRatio = ($correctGuesses > 0) ? ($totalGuesses/$correctGuesses) : 0;
+  $guessesPerPattern = number_format($patternGuessRatio, 2);
 
   return $guessesPerPattern;
 }

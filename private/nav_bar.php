@@ -14,11 +14,13 @@
                         <li><hr class="dropdown-divider" /></li>
                         <li><a class="dropdown-item" href="<?php echo url_for('tutorial'); ?>">Tutorial</a></li>
                         <li><a class="dropdown-item" href="<?php echo url_for('leaderboard'); ?>">Leaderboard</a></li>
+                        <li><hr class="dropdown-divider" /></li>
                         <?php
                         $loggedIn = checkSession();
                         if($loggedIn){ ?>
-                          <li><hr class="dropdown-divider" /></li>
                           <li><a class="dropdown-item" href="<?php echo url_for('private/logout.php'); ?>">Log Out</a></li>
+                        <?php }else{ ?>
+                          <li><a class="dropdown-item" href="<?php echo url_for('login'); ?>">Log In</a></li>
                         <?php }
                         ?>
                     </ul>

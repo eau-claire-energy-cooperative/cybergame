@@ -15,6 +15,8 @@ if (isset($data['alias'])) {
     $updateUserSQL = "UPDATE users SET alias = '" . $alias . "' WHERE user_id = " . $_SESSION['user_id'];
     $updateResult = mysqli_query($db, $updateUserSQL);
 
+    writeToLog(get_user_name($db), "(" . $alias . ") has registered for Galactic Codebreaker");
+
     // For this example, we'll just echo the alias back as a response
     echo json_encode(['status' => 'success', 'alias' => $alias]);
 } else {

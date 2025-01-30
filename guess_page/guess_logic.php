@@ -37,11 +37,13 @@ $correctGuess = correct_guess($db, $patternID, $correctID);
 $insertGuessSQL = "INSERT INTO guesses (user_guessing, pattern_guessed, correct_pattern, correct_guess) ";
 $insertGuessSQL .= "VALUES ('" . $_SESSION['user_id'] . "', '" . $patternID . "', '" . $correctID . "', '" . $correctGuess . "')";
 
+$insertPatternResult = mysqli_query($db, $insertGuessSQL);
+
 if($correctGuess === 1){
   update_score($db, $correctID);
+  writeToLog(get_user_name($db), "has solved pattern number " . $correctID);
+  writeToLog(get_user_name($db), "has solved " . generate_patterns_solved($db) . " of patterns");
 }
-
-$insertPatternResult = mysqli_query($db, $insertGuessSQL);
 
 // Make sure that the value got added correctly to the database and updated properly
 if ($insertResult && $insertPatternResult) {

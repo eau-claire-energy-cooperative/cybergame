@@ -15,6 +15,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         //Start the session
         startSession($username);
 
+        //Write login information to the log file
+        writeToLog($username, "has successfully logged in");
+
         if($count > 0){
             getUserFromDatabase($db, $username);
             header("Location: ../pick_passcode");
@@ -25,6 +28,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     } else {
         // Store the error message in the session
         $_SESSION['error'] = "Invalid credentials!";
+
+        //Write failed login to the log file
+        writeToLog($username, "has a failed login attempt");
 
         // Redirect back to the login page
         header("Location: ../login");
