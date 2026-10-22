@@ -2,6 +2,10 @@
 
 Basic instructions for bundling this app to run as a Docker container. 
 
+### Before you start
+
+Review the Known Issues in the [README](README.md#known-issues) first. Change the example database passwords in `docker-compose.yml` and `private/credentials.php`, and set your LDAP/domain settings in `private/credentials.php`.
+
 ### Creating the container
 To run the application within Docker you first have to build the Codebreaker app into a Docker image. 
 

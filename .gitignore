@@ -1,2 +1,17 @@
 #ignore the remote sync file when uploading
 .remote-sync.json
+
+# runtime logs (can contain user activity)
+private/loginfo.txt
+*.log
+
+# local environment / secrets
+.env
+.env.*
+!.env.example
+
+# editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
