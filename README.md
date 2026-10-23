@@ -1,4 +1,4 @@
-# Galactic Codebreaker
+# Galactic Codebreaker (cybergame)
 
 > A PHP passcode game to reinforce passcode importance.
 
